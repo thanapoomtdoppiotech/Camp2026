@@ -1,0 +1,4 @@
+TC001:
+  verify:
+   coinname: Ethereum
+   price: 30000
