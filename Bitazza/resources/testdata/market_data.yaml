@@ -1,0 +1,10 @@
+coin_name:
+    - Bitcoin    
+    - Ethereum    
+    - Moo Deng    
+    - USD Tether
+    
+TC001:
+  verify:
+   coinname: Ethereum
+   price: 30000
