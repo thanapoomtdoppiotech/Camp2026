@@ -1,3 +1,9 @@
+coin_name:
+    - Bitcoin    
+    - Ethereum    
+    - Moo Deng    
+    - USD Tether
+    
 TC001:
   verify:
    coinname: Ethereum
