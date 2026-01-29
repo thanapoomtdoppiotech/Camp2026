@@ -4,5 +4,5 @@ Library    SeleniumLibrary
 
 
 *** Test Cases ***
-TC001 Test push code to git
-    Log To Console    Hello Git
+TC02 Test push code to github
+    Log To Console    Hello Github
